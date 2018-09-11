@@ -1,8 +1,8 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://mmrinconh.github.io/personal3"
 # baseurl is the website's URL without the hostname
+url: "http://mmrinconh.github.io/personal3"
 baseurl: "/personal3"
 
 # Name of website
@@ -87,13 +87,13 @@ exclude:
   - README.md
 
 # prose.io options
-prose:
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - /_includes
-    - /_layouts
-    - /css
-    - /img
-    - /js
+#prose:
+#  ignore:
+  #  - 404.html
+  #  - LICENSE
+  #  - feed.xml
+  #  - /_includes
+  #  - /_layouts
+  #  - /css
+  #  - /img
+    #- /js
