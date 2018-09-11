@@ -17,10 +17,10 @@ avatar: "/img/DerekOgle.jpg"
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "teaching"
-  Research: "research"
-  Personal: "personal"
-  About/Contact: "aboutme"
+  #Teaching: "teaching"
+  #Research: "research"
+  #Personal: "personal"
+  #About/Contact: "aboutme"
   Home: ""
 
 # --- Footer options --- #
