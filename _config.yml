@@ -1,9 +1,9 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://droglenc.github.io"
+url: "http://mmrinconh.github.io/mmrinconh.github.io-personal2"
 # baseurl is the website's URL without the hostname
-baseurl: ""
+baseurl: "/mmrinconh.github.io-personal2""
 
 # Name of website
 title: Derek Ogle
